@@ -1,0 +1,1 @@
+export { Saebasol } from './models/rest'
